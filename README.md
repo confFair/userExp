@@ -10,7 +10,7 @@ We studied the hypotheses H1 and H2 in a user experiment with 13 participants. s
 
 # Recources
 
-* **The cheatsheet:** https://github.com/mbfairness/userExp/blob/main/cheatsheet-Fairness-specifications.pdf
+* **The cheatsheet:** [cheatsheet](https://github.com/mbfairness/userExp/blob/main/cheatsheet-Fairness-specifications.pdf)
 * **The questionair:** [questionair](https://github.com/mbfairness/userExp/blob/main/Survey_%20Fairness%20Analysis%20based%20on%20Software%20Design%20Models%20-%20Google%20Forms.pdf)
 * **The results of the questionnaire:** [results](https://github.com/mbfairness/userExp/blob/main/Result-Survey_%20Fairness%20Analysis%20based%20on%20Software%20Design%20Models.xlsx)
 

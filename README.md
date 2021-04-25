@@ -10,7 +10,7 @@ We studied the hypotheses H1 and H2 in a user experiment with 13 participants. s
 
 # Recources
 
-* **The cheatsheet:** https://github.com/mbfairness/MBfair/blob/main/profile.zip
+* **The cheatsheet:** https://github.com/mbfairness/userExp/blob/main/cheatsheet-Fairness-specifications.pdf
 * **The questionair:** https://github.com/mbfairness/MBfair/blob/main/hugort.launch
 * **The results of the questionnaire:** https://github.com/mbfairness/MBfair/blob/main/MBFairness.zip
 
